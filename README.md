@@ -1,4 +1,7 @@
 🎯 Random Number Guessing Game (JavaScript)
+
+
+
 This is a simple terminal-based random number guessing game written in JavaScript. The user is prompted to guess a number between 1 and 100 until they get it right.
 
 📄 File
